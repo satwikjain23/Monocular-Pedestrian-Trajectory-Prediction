@@ -1,0 +1,12 @@
+numpy
+opencv-python
+torch
+torchvision
+transformers
+huggingface_hub
+tqdm
+pyquaternion
+nuscenes-devkit
+Pillow
+scipy
+matplotlib
