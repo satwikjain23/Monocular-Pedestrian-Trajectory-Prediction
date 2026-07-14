@@ -188,23 +188,3 @@ The system performs
 # Dataset
 
 - nuScenes v1.0 Trainval
-
----
-
-# Citation
-
-If you use this work, please cite
-
-```
-@misc{jain2026,
-  author={Satwik Jain},
-  title={Pedestrian Trajectory Prediction for Autonomous Vehicles using Monocular Camera},
-  year={2026}
-}
-```
-
----
-
-# License
-
-MIT License
