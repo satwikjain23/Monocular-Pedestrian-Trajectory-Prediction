@@ -1,5 +1,7 @@
 # Pedestrian Trajectory Prediction for Autonomous Vehicles using Monocular Camera
 
+![htp](./htp.gif)
+
 A lightweight monocular vision-based framework for pedestrian trajectory prediction and forward-collision warning using only RGB camera input.
 
 The proposed system combines:
