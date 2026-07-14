@@ -35,9 +35,7 @@ Monocular-Pedestrian-Trajectory-Prediction/
 │   └── generate_depth_images.py
 │
 ├── requirements.txt
-├── README.md
-├── LICENSE
-└── CITATION.cff
+└── README.md
 ```
 
 ---
