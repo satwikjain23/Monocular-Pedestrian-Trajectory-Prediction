@@ -10,7 +10,7 @@ The proposed system combines:
 - SegFormer-B0 for road segmentation
 - Forward collision detection
 
-Unlike many existing approaches, this framework does not require LiDAR, stereo cameras, or trajectory-specific neural network training, making it suitable for lightweight autonomous driving and ADAS systems.
+Unlike many existing approaches, this framework does not require LiDAR, stereo cameras, or trajectory-specific neural network training, making it suitable for lightweight autonomous driving and ADAS system.
 
 ---
 
